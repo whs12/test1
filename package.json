@@ -1,0 +1,15 @@
+{
+  "name": "whs12_test",
+  "version": "1.0.0",
+  "description": "First try",
+  "main": "whs12.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whs12/test1"
+  },
+  "author": "whs12",
+  "license": "ISC"
+}
